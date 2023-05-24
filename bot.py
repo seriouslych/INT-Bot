@@ -129,4 +129,4 @@ async def хелп(ctx):
     # Отправляем embed
     await ctx.send(embed=embed)
 
-bot.run('MTEwNzI0OTAxNzA1NTg3MTAzNg.G6WNSB.NVgFR2xGzjg3XKw_1MY15xyqQv_dZvQ_oQjKjA')
+bot.run('ADD_BOT_TOKEN_HERE')
